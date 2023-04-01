@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PieShop.HRM.Models", "PieSh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PieShop.HRM.Services", "PieShop.HRM.Services\PieShop.HRM.Services.csproj", "{ADB67BBD-D301-484F-AC9E-679990B75252}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PieShop.HRM.ComponentLibrary", "PieShop.HRM.ComponentLibrary\PieShop.HRM.ComponentLibrary.csproj", "{9939A00C-EF24-4EB3-9DD2-973923664A41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{ADB67BBD-D301-484F-AC9E-679990B75252}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADB67BBD-D301-484F-AC9E-679990B75252}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADB67BBD-D301-484F-AC9E-679990B75252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9939A00C-EF24-4EB3-9DD2-973923664A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9939A00C-EF24-4EB3-9DD2-973923664A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9939A00C-EF24-4EB3-9DD2-973923664A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9939A00C-EF24-4EB3-9DD2-973923664A41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

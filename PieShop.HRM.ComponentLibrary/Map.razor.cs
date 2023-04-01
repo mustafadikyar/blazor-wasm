@@ -2,7 +2,7 @@
 using Microsoft.JSInterop;
 using PieShop.HRM.Models;
 
-namespace PieShop.HRM.Components;
+namespace PieShop.HRM.ComponentLibrary;
 
 public partial class Map
 {
