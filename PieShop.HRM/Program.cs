@@ -18,3 +18,5 @@ builder.Services.AddScoped<ApplicationState>();
 builder.Services.AddBlazoredLocalStorage();
 
 await builder.Build().RunAsync();
+
+//a-test
